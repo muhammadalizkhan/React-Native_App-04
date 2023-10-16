@@ -55,4 +55,5 @@ const styles = StyleSheet.create({
 
 export default App;
 
-//style={[styles.Contanier]}
+//style={[styles.palceyourcssclassname]}
+//simplereactnativeappthatChangethierBGcolorWhilePressingButton
